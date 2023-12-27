@@ -1,4 +1,8 @@
-# SaveItAll
+<p align="center">
+<a href="https://github.com/SaveItAll/saveitall-app"><img src="icon.png" width="150"></a>
+</p>
+
+<h2 align="center">SaveItAll</h2>
 
 Screenshot 1 | Screenshot 2 | Screenshot 3
 :-:|:-:|:-:
