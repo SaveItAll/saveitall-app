@@ -36,7 +36,7 @@ Yes! We want to add support for downloading from other apps/sites, some of the p
 
 ## Found a bug or want a new feature?
 
-- Search the issue tracker to make sure your bug or feature request has not already been submitted.
+- Search the [issue tracker](https://github.com/SaveItAll/saveitall-app/issues) to make sure your bug or feature request has not already been submitted.
 - If it's already submitted, feel free to comment on the existing issue.
 - If there is no issue for your bug or feature request, open a new issue with as much information as you can.
 
