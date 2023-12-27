@@ -42,14 +42,11 @@ Yes! We want to add support for downloading from other apps/sites, some of the p
 
 ## Why is this app not on Google Play?
 
-Google Play has lots of policies in place that make it difficult to distribute "downloader" apps.
-There are a lot of them already, but most of them are by anonymous developers.
 For now, you can download the APK directly from this repo. I may upload to Google Play in the future.
 
 ## Is this app available on iOS?
 
-The app has been developed in Flutter, so it can be built and run on iOS as well. However similar policies on the App Store are painful to deal with.
-I may upload an unsigned IPA in the future that you can side load.
+The app has been developed in Flutter, so it can be built and run on iOS as well. I may upload an unsigned IPA in the future that you can side load.
 
 ## How to download?
 
